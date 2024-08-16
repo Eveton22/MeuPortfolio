@@ -13,7 +13,8 @@
 .div-foto img {
     border-radius: 12px;
     margin-top: 4rem;
-    width: 360px;
+    width: 260px;
+    height: 260px;
 }
 .div-button {
     margin-top: 20px;
