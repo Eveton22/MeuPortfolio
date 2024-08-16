@@ -1,0 +1,52 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(19,19, 122);
+}
+
+footer div {
+    width: 46px;
+    height: 46px;
+    border: 4px solid #ffff;
+    margin: 0 16px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+footer #whatsapp {
+    border-color: green ;
+}
+
+footer #linkedin {
+    border-color: rgb(38, 108, 189);
+}
+
+footer #linke {
+    width: 20px;
+    height: 20px;
+    color: rgb(38,108, 189);
+}
+
+footer #github {
+    border-color: rgb(33, 33, 33);
+}
+
+footer #git {
+    width: 20px;
+    height: 20px;
+    color: rgb(33, 33, 33);
+
+}
+
+footer #what {
+    color: green;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+}

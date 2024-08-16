@@ -1,0 +1,40 @@
+#main-inicio {
+    width: 100%;
+    height: calc(100vh - 120px);
+    background-image: url('../../images/imagemsectionfundo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+.div-foto img {
+    border-radius: 12px;
+    margin-top: 4rem;
+    width: 360px;
+}
+.div-button {
+    margin-top: 20px;
+}
+
+.div-button a:hover{
+    background-color: #fff;
+    color: blue;
+    transition: 0.3s opasity;
+}
+.div-button a {
+    font-weight: bold;
+    border: none;
+    background-color: rgb(29,29,122);
+    color: #f2f2f2;
+    border-radius: 12px;
+    width: 50px;
+    padding: 8px 40px;
+    transition: 0.8s;
+    text-decoration: none;
+}
+
+
+
