@@ -1,6 +1,7 @@
 import './header.css'
 import iconeMenu from '../../images/icons8-cardápio-150.png'
 import { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
 
 
 const Header = () => {
@@ -27,10 +28,11 @@ const Header = () => {
                 <div id={menuOverlay} onClick={handleActive2}></div>
                 <div id={menuActive}>
                     <ul>
-                        <li><a href="">Inicio</a></li>
-                        <li><a href="">Habilidades</a></li>
-                        <li><a href="">Projetos</a></li>
-                        <li><a href="">Contato</a></li>
+                        <li><Link to='/'>Inicio</Link></li>
+                        <li><Link to='/sobre'>Sobre</Link></li>
+                        <li><Link to='/habilidades'>Habilidades</Link></li>
+                        <li><Link to='projetos'>Projetos</Link></li>
+                        <li><Link to='contato'>Contato</Link></li>
                         <li><a href="" onClick={handleActive2}>Voltar</a></li>
                     </ul>
                 </div>

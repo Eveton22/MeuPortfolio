@@ -14,8 +14,6 @@ const Main = () => {
             <br />
             <br />
             <br />
-            <br />
-            <br />
             <div className="div-button">
                 <a href=''>SOBRE MIM</a>
             </div>
