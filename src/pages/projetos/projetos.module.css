@@ -1,0 +1,18 @@
+section img {
+    width: 40%;
+    height: 100px;
+}
+
+.main-projetos h4 {
+    color: #0000;
+}
+
+.main-projetos section {
+    display: flex;
+    flex-direction: column;
+}
+
+#imgproject {
+    width: 600px;
+    height: 500px;
+}

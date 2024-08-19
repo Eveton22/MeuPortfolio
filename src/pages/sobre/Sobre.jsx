@@ -8,7 +8,14 @@ function Sobre() {
             <Header />
                 <main id="main-sobre">
                         <div>
-                            Minha Historia
+                            <h2>RESUMO</h2>
+                            <p>Olá tudo bem ?, bem vindo ao meu portfolio, achei que nunca iria dizer isso pela dimensao de conhecimentos
+                                e desafios que travei para conseguir criar ele, mas com muita dedicação e esforço, Conseguiii, Meu nome Everton Damasceno, tenho 23 anos de idade
+                                sou formado em Analise e Desenvolvimento de Sistemas pela (IMPACTA) e cursando atualmente Ciencias da Computação (CRUZEIRO DO SUL), ainda nao tive a oportunidade de ingressar
+                                na área de T.I para obter experiencias, mas sinto que estou cada vez mais proximo, nao vou desistir por tantos nao que recebi, espero receber o incrivel SIM com o maior prazer de ter encarado e aprendi 
+                                com isso que aprendemos e nos construimos até com as coisas que não deram certo!!, atualmente trabalho no ramo de Autopeças, sou um estoquista, mas minha paixao esta voltada a tecnologia, desde que aprendi com os primeiros conteudos
+                                do famoso GUSTAVO GUANABARA em 2021, venho aprendendo constantemente evoluindo, curti e amei a área de Tecnologia, sou apaixonado pela construção da logica da criação e dos desafios que nos faz estar em aprendizagem constante.
+                            </p>
                         </div>
                         <div>
                             <h3>Hobbies</h3>
@@ -23,7 +30,7 @@ function Sobre() {
                             </ul>
                         </div>
                         <div>
-                            Cursos Complementares e Certificados
+                                Cursos complementares e Certificaçãoes
                             <ul>
                                 <li>Desenvolvimento web Completo -114Horas Udemy </li>
                                 <li>.NET Developer 80Horas .Dio</li>
@@ -39,11 +46,9 @@ function Sobre() {
                         <div>
                             <h3>Vida Academica</h3>
                             <ul>
-                                <li>Formação em Analise e Desenvolvimento de Sistemas</li>
-                                <li>Cursando Atualmente Ciencias da Computação</li>
-                                <li>Formação em Analise e Desenvolvimento de Sistemas</li>
+                                <li>Formação em Analise e Desenvolvimento de Sistemas IMPACTA 06/2024</li>
+                                <li>Cursando Atualmente Ciencias da Computação - Cruzeiro do Sul 06/2024</li>
                             </ul>
-                
                         </div>
                 </main>
             <Footer/>
