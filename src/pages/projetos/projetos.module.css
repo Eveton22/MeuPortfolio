@@ -7,9 +7,14 @@ section img {
     color: #0000;
 }
 
-.main-projetos section {
+#main-projetos section {
+    border: 2px solid red;
     display: flex;
     flex-direction: column;
+}
+
+.main-projetos section {
+    margin-bottom: 20px;
 }
 
 #imgproject {
