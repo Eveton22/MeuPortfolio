@@ -6,7 +6,10 @@ const Habilidades = ()=> {
         <div>
             <Header />
                 <main>
-                    <p>Minhas habilides.</p>
+                    <h3>Minhas habilides São.</h3>
+                    <p>Facilidade de me relacionar com outras pessoas</p>
+                    <p>Trabalho em equipe</p>
+                    <p>Desejo ardente de aprendizagem</p>
                     <p>Tenho experiencias com as tecnologias front end React Js, Vue Js e Angular</p>
                     <p>Tenho experiencias com as tecnologias Back end Sprong Boot, .NET, Python</p>
                 </main>

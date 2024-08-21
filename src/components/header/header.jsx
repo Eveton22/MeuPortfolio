@@ -31,9 +31,19 @@ const Header = () => {
                         <li><Link to='/'>Inicio</Link></li>
                         <li><Link to='/sobre'>Sobre</Link></li>
                         <li><Link to='/habilidades'>Habilidades</Link></li>
-                        <li><Link to='projetos'>Projetos</Link></li>
-                        <li><Link to='contato'>Contato</Link></li>
-                        <li><a href="" onClick={handleActive2}>Voltar</a></li>
+                        <li><Link to='/projetos'>Projetos</Link></li>
+                        <li><Link to='/contato'>Contato</Link></li>
+                        <li><a onClick={handleActive2}>Voltar</a></li>
+                    </ul>
+                </div>
+                <div id="media-menu">
+                    <ul>
+                        <li><Link to='/'>Inicio</Link></li>
+                        <li><Link to='/sobre'>Sobre</Link></li>
+                        <li><Link to='/habilidades'>Habilidades</Link></li>
+                        <li><Link to='/projetos'>Projetos</Link></li>
+                        <li><Link to='/contato'>Contato</Link></li>
+                        <li><Link to="/">Voltar</Link></li>
                     </ul>
                 </div>
             </nav>

@@ -30,7 +30,7 @@ function Sobre() {
                             </ul>
                         </div>
                         <div>
-                                Cursos complementares e Certificaçãoes
+                                <h3>Cursos complementares e Certificaçãoes</h3>
                             <ul>
                                 <li>Desenvolvimento web Completo -114Horas Udemy </li>
                                 <li>.NET Developer 80Horas .Dio</li>

@@ -1,12 +1,21 @@
 main {
-    width: 100%;
-    height: calc(100vh);
+    width: auto;
+    height: calc(100vh) auto;
     display: flex;
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    
 }
 
+main p {
+    margin: 0 11px;
+    
+}
+
+ul {
+    margin: 14px 0;
+}
 
 Footer {
     position: fixed;

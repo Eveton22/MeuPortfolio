@@ -53,5 +53,46 @@ header #menu-items ul a:hover {
     text-decoration: underline;
 }
 
+header #media-menu {
+    display: none;
+}
+
+header #menu-none{
+    display: none;
+  }
+
+header #media-menu a, header li {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 5px;
+    list-style-type: none;
+    transition: 0.06s;
+}
+
+header #media-menu li:hover {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+
+@media (min-width:700px) {
+    header img {
+        display: none;
+    }
+    
+    header #media-menu, header ul {
+        display: flex;
+    }
+    
+    header #media-menu a, header li {
+        text-decoration: none;
+        padding: 0 5px;
+        list-style-type: none;
+    }
+
+    
+
+
+}
 
 
