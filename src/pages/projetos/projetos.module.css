@@ -1,6 +1,9 @@
 section img {
     width: 40%;
     height: 100px;
+    margin: 20px 0 20px 0;
+    border: 2.5px solid #000;
+    
 }
 
 .main-projetos h4 {
@@ -17,7 +20,14 @@ section img {
     margin-bottom: 20px;
 }
 
-#imgproject {
-    width: 600px;
-    height: 500px;
+#main-projetos .imgproject {
+    width: 400px;
+    height: 600px;
+}
+
+@media (min-width:700px){
+    section img {
+        width: 700px;
+        height: 500px;
+    }
 }

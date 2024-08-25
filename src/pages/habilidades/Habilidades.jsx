@@ -11,7 +11,7 @@ const Habilidades = ()=> {
                     <p>Trabalho em equipe</p>
                     <p>Desejo ardente de aprendizagem</p>
                     <p>Tenho experiencias com as tecnologias front end React Js, Vue Js e Angular</p>
-                    <p>Tenho experiencias com as tecnologias Back end Sprong Boot, .NET, Python</p>
+                    <p>Tenho experiencias com as tecnologias Back end Spring Boot, .NET, Python</p>
                 </main>
             <Footer />
         </div>
