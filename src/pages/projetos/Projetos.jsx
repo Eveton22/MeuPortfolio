@@ -23,13 +23,13 @@ function Projetos(){
                         </section>
                         <section>
                             <h5>Projeto de Busca de Imoveis</h5>
-                            <h5>Utitilização da front end em React JS e <br />backend em PHP Symfony</h5>
+                            <h5>Utilização da front end em React JS e <br />backend em PHP Symfony</h5>
                             <img src={Project} alt="" /><br />
                             <a href="https://github.com/Eveton22/projetoImoveis" target="blank">Veja o projeto</a>
                         </section>
                         <section>
                             <h5>Projeto de ERP para ramos de autopeças</h5>
-                            <h5>Utitilização da front end em React JS e <br />python com Mysql para back end</h5>
+                            <h5>Utilização da front end em React JS e <br />python com Mysql para back end</h5>
                             <img src={firstProject} alt="" /><br />
                             <a href="https://github.com/Eveton22/projetoImoveis" target="blank">Veja o projeto</a>
                         </section>

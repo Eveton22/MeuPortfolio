@@ -19,6 +19,11 @@ footer div {
     background-color: #fff;
 }
 
+footer div:hover{
+    width: 50;
+    height: 50;
+}
+
 footer #whatsapp {
     border-color: green ;
 }
